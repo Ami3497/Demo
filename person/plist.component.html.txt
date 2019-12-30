@@ -1,0 +1,7 @@
+<div>
+   <ul>
+       <li *ngFor="let per of parr">{{per.id}}------{{per.name}}------{{per.sal}}</li>
+   </ul>
+
+</div>
+
